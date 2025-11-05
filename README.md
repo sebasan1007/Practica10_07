@@ -1,0 +1,12 @@
+Elaborado por Sebastian sandoval Coha Repositorio:explicacion de los comandos de git git --version //saber la version//
+cmdkey /delete: //eliminar los datos guardados// 
+git init //inicio de repocitorio//
+git config --global user.name "sebasan1007"//crear el usuario en el repositorio//
+git config user.name//verificar el usuario//
+git config --global user.email sebasan0812Qgmail.com //poner el correo de el usuario creado en github//
+git config user.email //verificar el email 
+git status //verifica que la carpeta sea la que es//
+git clone https://github.com/sebasan1007/Practica10_07.git //clonar el repositorio de git //
+git commit -m"primera version" //versiones //
+git push -u origin master //mandar la version
+git:https://github.com
