@@ -9,3 +9,5 @@ git config --global user.email sebasan0812Qgmail.com //poner el correo de el usu
 git config user.email //verificar el email 
 git status //verifica que la carpeta sea la que es//
 git clone https://github.com/sebasan1007/Practica10_07.git //clonar el repositorio de git //
+git commit -m"primera version" //versiones //
+git push -u origin master
